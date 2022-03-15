@@ -5,9 +5,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, quis **nostrud exercit
 
 ### Code
 
-javascript
+```javascript
 var foo = 'bart';
 if(true) foo = 'foo';
+```
 
 ### Tables 
 First Header | Second Header
